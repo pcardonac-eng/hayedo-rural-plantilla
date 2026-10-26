@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="160" viewBox="0 0 560 160">
+  
+  <circle cx="80" cy="80" r="58" fill="#2F5D3A"/>
+  
+  <g transform="translate(80,76) scale(1.05) rotate(-28)">
+    <path d="M0,-44 C10,-38 20,-30 24,-18 C27,-8 26,6 21,18 C16,29 8,38 0,46 C-8,38 -16,29 -21,18 C-26,6 -27,-8 -24,-18 C-20,-30 -10,-38 0,-44 Z" fill="#FFFFFF"/>
+    <path d="M0,-38 L0,58" stroke="#2F5D3A" stroke-width="3" stroke-linecap="round"/>
+    <path d="M0,-18 L15,-26 M0,-4 L19,-12 M0,10 L18,3 M0,24 L13,18 M0,-18 L-15,-26 M0,-4 L-19,-12 M0,10 L-18,3 M0,24 L-13,18" stroke="#2F5D3A" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  </g>
+  <text x="160" y="86" font-family="Lora" font-weight="600" font-size="58" fill="#2F5D3A">Hayedo</text>
+  <text x="163" y="122" font-family="Poppins" font-weight="500" font-size="22" letter-spacing="9" fill="#7A9A55">RURAL</text>
+</svg>

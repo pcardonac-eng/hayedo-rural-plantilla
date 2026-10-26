@@ -1,0 +1,6 @@
+# Archivos que Git no debe guardar en el repositorio (uno por línea).
+# En la sesión 8 revisarás y ampliarás esta lista.
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

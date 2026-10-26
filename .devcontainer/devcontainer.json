@@ -1,0 +1,17 @@
+{
+  "name": "Hayedo Rural",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "forwardPorts": [
+    5500
+  ],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-ceintl.vscode-language-pack-es",
+        "ritwickdey.liveserver",
+        "esbenp.prettier-vscode",
+        "redhat.vscode-xml"
+      ]
+    }
+  }
+}
