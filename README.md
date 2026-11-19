@@ -9,6 +9,7 @@ Proyecto integrador del curso. Empresa **ficticia**: todos los datos son inventa
 3. En tu repositorio nuevo: **Settings › Collaborators › Add people** e invita a tu docente (su usuario está en el aula virtual).
 4. Copia la dirección de tu repositorio (botón verde **Code › HTTPS**) y pégala en la tarea del aula virtual.
 5. En VS Code: `Ctrl+Mayús+P` › **Git: Clonar** › pega la dirección › elige una carpeta › **Abrir**.
+6. Copia tus archivos `docs/analisis-competencia.md` y `docs/mapa-sitio.md` de la carpeta de la sesión 1 a la carpeta `docs` de este repositorio (sustituyen a los vacíos), haz commit y sincroniza. Desde ahora trabajas **solo** en este repositorio.
 
 ## Cada día de clase
 
@@ -29,6 +30,12 @@ hayedo-rural/
     ├── analisis-competencia.md
     └── mapa-sitio.md
 ```
+
+## Normas
+
+- Abre siempre **la carpeta** del proyecto en VS Code, no un archivo suelto. Live Server: clic derecho en `index.html` › **Open with Live Server**.
+- Nombres de archivo en minúsculas, sin espacios ni tildes (`casa-los-tejos.html`).
+- IA: primero sin IA; después contrasta y anota qué aceptas y por qué. Nunca pegues datos personales reales.
 
 ## Normas
 
